@@ -18,3 +18,11 @@ Ideas:
 * Time series analysis - how has the product reviews change in time
 * Time series analysis - how users change their reviews in time
 * Sentiment clustering
+
+## Tasks
+
+* Create 3 graphs - Emi & Bartek
+* NLP cleaning - Kuba
+* NLP signatures + graph - Agata
+* NLP sentiment - Emi & Bartek
+* Time Series - Jacek
