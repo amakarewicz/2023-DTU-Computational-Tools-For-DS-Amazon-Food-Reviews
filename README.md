@@ -21,8 +21,19 @@ Ideas:
 
 ## Tasks
 
-* Create 3 graphs - Emi & Bartek
-* NLP cleaning - Kuba
-* NLP signatures + graph - Agata
-* NLP sentiment - Emi & Bartek
-* Time Series - Jacek
+* Create 3 graphs - Emi & Bartek (third in drive) - DONE
+* NLP cleaning - Kuba - DONE
+* NLP signatures + graph - Agata - TODO
+** Embedding + cosine similarity
+** Merging all texts of a user into one
+** GPU
+** Different libraries
+* NLP sentiment - Emi & Bartek - TODO
+* Time Series - Jacek - DONE
+
+## TODO
+
+* Sample 10% data
+* 4th graph creation Agata
+* 2 graphs (communities + degree distribution) Jacek + Bartek & Emi
+* Sentiment/wordcloud Kuba
