@@ -1,6 +1,6 @@
 # 2023-DTU-Computational-Tools-For-DS-Amazon-Food-Reviews
 
-This repository is a part of the DTU's Computational Tools for Data Science project. The project "Amazon Fine Food Reviews Analysis" applies Data Science tools to analyze potential improvement opportunities for the Amazon portal. The conclusions are presented in the report (not part of this repository). Data for this project are from a public source: [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/code](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data).
+This repository is a part of the DTU's Computational Tools for Data Science project. The project "Amazon Fine Food Reviews Analysis" applies Data Science tools to analyze potential improvement opportunities for the Amazon portal. The conclusions are presented in the report (not part of this repository). Data for this project are from a public source: [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data).
 
 ## Table of content
 
