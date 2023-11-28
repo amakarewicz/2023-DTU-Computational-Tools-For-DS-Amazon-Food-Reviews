@@ -6,7 +6,7 @@ This repository is a part of the DTU's Computational Tools for Data Science proj
 
 Topic         | File
 ------------- | -------------
-Data          | data
-              | * sample_no_agg.csv - 5% of the data
-              | * sample.csv - sample_no_agg.csv aggregated by user ID
+Data          | data <br>
+                * sample_no_agg.csv - 5% of the data <br>
+                * sample.csv - sample_no_agg.csv aggregated by user ID
 Preprocessing | main.ipynb
