@@ -36,5 +36,7 @@ This repository is a part of the DTU's Computational Tools for Data Science proj
       The jacquard similarity between users
     * signatures.ipynb <br>
       Creating similarity_dict
+    * signatures_utils.py <br>
+      Helper functions for computing similarities
     * signatures_graph.ipynb <br>
       Analysis of the graph of similar reviews
