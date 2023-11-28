@@ -25,6 +25,8 @@ This repository is a part of the DTU's Computational Tools for Data Science proj
       Saved Product-Product graph
     * graphs/user_product_graph.pickle <br>
       Saved User-Product graph
+    * [user_user_graph.pickle](https://drive.google.com/file/d/1x4EKxJjlEmsimqgxqIRjWBBMULFHF7xk/view?usp=sharing) <br>
+      Saved User-User graph (on Google Drive - too big for GitHub)
     * graphs.ipynb <br>
       Creation of User-Product, Product-Product and User-User graphs
     * ID_Graph_analysis_I.ipynb <br>
